@@ -1,7 +1,7 @@
   {
   "name": "Black",
   "description": "Just a black theme thats all.",
-  "version": "0.1",
+  "version": "0.2",
   "authors": [
     {
       "name": "Chxrgxr",
@@ -151,7 +151,7 @@
     "CHAT_GREY": "#0c0c0c"
   },
   "background": {
-    "blur": 0.3,
+    "blur": 0.1,
     "url": "",
     "alpha": 1.0
   }
