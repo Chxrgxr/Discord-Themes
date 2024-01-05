@@ -1,0 +1,16 @@
+{
+“name”: “Snow”,
+“version”: “0.1”,
+“description”: “just a snow theme”,
+“color”: “FFFFFF”,
+“authors”: [
+  {
+      "name": "Chxrgxr",
+      "id": "1132021577899311206"
+    }
+],
+“background”: {
+     “blur”: 1,
+     “url”: “https://64.media.tumblr.com/tumblr_maup9i0R611qbbs8oo1_500.gif”,
+  }
+}
