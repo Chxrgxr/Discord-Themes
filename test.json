@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0.3,
-    "url": "https://raw.githubusercontent.com/Chxrgxr/files/main/favicon.ico",
+    "#ffffff"
     "alpha": 1.0
   }
 }
