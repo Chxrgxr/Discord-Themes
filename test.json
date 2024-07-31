@@ -1,7 +1,7 @@
   {
   "name": "chxrgxr",
   "description": "Just a test theme thats all.",
-  "version": "0.3",
+  "version": "0.4",
   "authors": [
     {
       "name": "Chxrgxr",
@@ -18,11 +18,11 @@
       "#3d4858"
     ],
     "TEXT_NORMAL": [
-      "#000",
+      "#00FFFF",
       "#2e3338"
     ],
     "TEXT_MUTED": [
-      "#ffffff",
+      "#998800",
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
