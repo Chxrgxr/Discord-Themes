@@ -1,7 +1,7 @@
   {
   "name": "chxrgxr",
   "description": "Just a test theme thats all.",
-  "version": "0.41",
+  "version": "0.42",
   "authors": [
     {
       "name": "Chxrgxr",
@@ -46,7 +46,7 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1b1b1b",
+      "#ffffff",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
