@@ -1,7 +1,7 @@
   {
   "name": "Test",
   "description": "Just a test theme thats all.",
-  "version": "0.2",
+  "version": "0.3",
   "authors": [
     {
       "name": "Chxrgxr",
@@ -14,11 +14,11 @@
       "#2c2c33"
     ],
     "HEADER_SECONDARY": [
-      "#808080",
+      "#9900FF",
       "#3d4858"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
+      "#000",
       "#2e3338"
     ],
     "TEXT_MUTED": [
